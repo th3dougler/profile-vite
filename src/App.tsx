@@ -23,6 +23,7 @@ function App() {
           <div>
             <h1>Doug Jones</h1>
             <p>Software Developer specializing in web development</p>
+            <p>WIP</p>
           </div>
         </section>
         <section id="projects">
